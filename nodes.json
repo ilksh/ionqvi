@@ -1,0 +1,2402 @@
+[
+  {
+    "node_id": "College Park, MD",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 4
+  },
+  {
+    "node_id": "Bothell, WA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Rome, NY",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Chattanooga, TN",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Chicago, IL",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 4,
+    "capacity": 10
+  },
+  {
+    "node_id": "Toronto, Canada",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 10
+  },
+  {
+    "node_id": "Vista, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 0,
+    "capacity": 4
+  },
+  {
+    "node_id": "Boston, MA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 4,
+    "capacity": 9
+  },
+  {
+    "node_id": "San Francisco, CA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 11
+  },
+  {
+    "node_id": "Pleasanton, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Denver, CO",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Seattle, WA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 9
+  },
+  {
+    "node_id": "Portland, OR",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Los Angeles, CA",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 10
+  },
+  {
+    "node_id": "San Diego, CA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Las Vegas, NV",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Salt Lake City, UT",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Phoenix, AZ",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Austin, TX",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Dallas, TX",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 9
+  },
+  {
+    "node_id": "Houston, TX",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 9
+  },
+  {
+    "node_id": "San Antonio, TX",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "New Orleans, LA",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Atlanta, GA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Miami, FL",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Orlando, FL",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Raleigh, NC",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Charlotte, NC",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Nashville, TN",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Washington, DC",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Philadelphia, PA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "New York, NY",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 11
+  },
+  {
+    "node_id": "Pittsburgh, PA",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Detroit, MI",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Columbus, OH",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Indianapolis, IN",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "St. Louis, MO",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Kansas City, MO",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Minneapolis, MN",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Vancouver, Canada",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Calgary, Canada",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Edmonton, Canada",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Winnipeg, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Montreal, Canada",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Ottawa, Canada",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Quebec City, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Halifax, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Milwaukee, WI",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Buffalo, NY",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Providence, RI",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Boise, ID",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Basel, Switzerland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Geneva, Switzerland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Zurich, Switzerland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 4,
+    "capacity": 9
+  },
+  {
+    "node_id": "Oxford, UK",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 4
+  },
+  {
+    "node_id": "London, UK",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 11
+  },
+  {
+    "node_id": "Manchester, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Edinburgh, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 7
+  },
+  {
+    "node_id": "Dublin, Ireland",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Paris, France",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 10
+  },
+  {
+    "node_id": "Lyon, France",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Marseille, France",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Berlin, Germany",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 9
+  },
+  {
+    "node_id": "Munich, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 4,
+    "capacity": 9
+  },
+  {
+    "node_id": "Frankfurt, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 10
+  },
+  {
+    "node_id": "Hamburg, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Amsterdam, Netherlands",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 9
+  },
+  {
+    "node_id": "Rotterdam, Netherlands",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Brussels, Belgium",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Vienna, Austria",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 4,
+    "capacity": 8
+  },
+  {
+    "node_id": "Copenhagen, Denmark",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Stockholm, Sweden",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Oslo, Norway",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Helsinki, Finland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Madrid, Spain",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Barcelona, Spain",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Lisbon, Portugal",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Rome, Italy",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Milan, Italy",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 9
+  },
+  {
+    "node_id": "Athens, Greece",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Warsaw, Poland",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Prague, Czechia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Budapest, Hungary",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Daejeon, South Korea",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Seoul, South Korea",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 10
+  },
+  {
+    "node_id": "Busan, South Korea",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Tokyo, Japan",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 4,
+    "capacity": 11
+  },
+  {
+    "node_id": "Osaka, Japan",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Sapporo, Japan",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Fukuoka, Japan",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Taipei, Taiwan",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Singapore",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 4,
+    "capacity": 11
+  },
+  {
+    "node_id": "Sydney, Australia",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 10
+  },
+  {
+    "node_id": "Melbourne, Australia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 9
+  },
+  {
+    "node_id": "Brisbane, Australia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Perth, Australia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Auckland, New Zealand",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Wellington, New Zealand",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Tel Aviv, Israel",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 4,
+    "capacity": 8
+  },
+  {
+    "node_id": "Reykjavik, Iceland",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tallinn, Estonia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Cambridge, MA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 8
+  },
+  {
+    "node_id": "Princeton, NJ",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 4
+  },
+  {
+    "node_id": "Palo Alto, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 10
+  },
+  {
+    "node_id": "Pasadena, CA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 4,
+    "capacity": 6
+  },
+  {
+    "node_id": "Boulder, CO",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 6
+  },
+  {
+    "node_id": "Ann Arbor, MI",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Madison, WI",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Urbana, IL",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Ithaca, NY",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "New Haven, CT",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 4,
+    "capacity": 5
+  },
+  {
+    "node_id": "Berkeley, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 6
+  },
+  {
+    "node_id": "Santa Barbara, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tucson, AZ",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Albuquerque, NM",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Honolulu, HI",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Anchorage, AK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Baltimore, MD",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Richmond, VA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Tampa, FL",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Jacksonville, FL",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cincinnati, OH",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cleveland, OH",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Oklahoma City, OK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Omaha, NE",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Memphis, TN",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Victoria, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Saskatoon, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Waterloo, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 4,
+    "capacity": 7
+  },
+  {
+    "node_id": "Cambridge, UK",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 6
+  },
+  {
+    "node_id": "Glasgow, UK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Bristol, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Birmingham, UK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Leeds, UK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Delft, Netherlands",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 5
+  },
+  {
+    "node_id": "Eindhoven, Netherlands",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 7
+  },
+  {
+    "node_id": "Grenoble, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Toulouse, France",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Nice, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Cologne, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Stuttgart, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Dresden, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Aachen, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Heidelberg, Germany",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Innsbruck, Austria",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 5
+  },
+  {
+    "node_id": "Graz, Austria",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Gothenburg, Sweden",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Uppsala, Sweden",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Turku, Finland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Krakow, Poland",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Gdansk, Poland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Brno, Czechia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bratislava, Slovakia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Ljubljana, Slovenia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Zagreb, Croatia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bucharest, Romania",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Sofia, Bulgaria",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Porto, Portugal",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Valencia, Spain",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Seville, Spain",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bilbao, Spain",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Florence, Italy",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Turin, Italy",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Bologna, Italy",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Beijing, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 4,
+    "capacity": 10
+  },
+  {
+    "node_id": "Shanghai, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 11
+  },
+  {
+    "node_id": "Shenzhen, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 10
+  },
+  {
+    "node_id": "Hong Kong",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 11
+  },
+  {
+    "node_id": "Guangzhou, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Hangzhou, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Nanjing, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Bangalore, India",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 8
+  },
+  {
+    "node_id": "Mumbai, India",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 10
+  },
+  {
+    "node_id": "Delhi, India",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Hyderabad, India",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Chennai, India",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Pune, India",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Bangkok, Thailand",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Kuala Lumpur, Malaysia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Jakarta, Indonesia",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Manila, Philippines",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Ho Chi Minh City, Vietnam",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Hanoi, Vietnam",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Nagoya, Japan",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Kyoto, Japan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Dubai, UAE",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 10
+  },
+  {
+    "node_id": "Abu Dhabi, UAE",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Doha, Qatar",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Riyadh, Saudi Arabia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Cairo, Egypt",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Johannesburg, South Africa",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Cape Town, South Africa",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Sao Paulo, Brazil",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 10
+  },
+  {
+    "node_id": "Rio de Janeiro, Brazil",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Buenos Aires, Argentina",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Santiago, Chile",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Bogota, Colombia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Lima, Peru",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Mexico City, Mexico",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Guadalajara, Mexico",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Monterrey, Mexico",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Durham, NC",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Evanston, IL",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "San Jose, CA",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 10
+  },
+  {
+    "node_id": "Irvine, CA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Santa Cruz, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Davis, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "La Jolla, CA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 4,
+    "capacity": 6
+  },
+  {
+    "node_id": "Rochester, NY",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Syracuse, NY",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Albany, NY",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Hartford, CT",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Worcester, MA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Hanover, NH",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Burlington, VT",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Portland, ME",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "State College, PA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Bethlehem, PA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Blacksburg, VA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Charlottesville, VA",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Chapel Hill, NC",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Gainesville, FL",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Tallahassee, FL",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Lexington, KY",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Louisville, KY",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Knoxville, TN",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Huntsville, AL",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Birmingham, AL",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Baton Rouge, LA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Little Rock, AR",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tulsa, OK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "El Paso, TX",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Fort Worth, TX",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Waco, TX",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Lubbock, TX",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Colorado Springs, CO",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Fort Collins, CO",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tempe, AZ",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Provo, UT",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Spokane, WA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Eugene, OR",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Reno, NV",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Sacramento, CA",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Fresno, CA",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bakersfield, CA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 4
+  },
+  {
+    "node_id": "Long Beach, CA",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Riverside, CA",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "St. John's, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 4
+  },
+  {
+    "node_id": "Regina, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Hamilton, Canada",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "London, Canada",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Kingston, Canada",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Sherbrooke, Canada",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Liverpool, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Newcastle, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Sheffield, UK",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Nottingham, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Belfast, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cardiff, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Southampton, UK",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Cork, Ireland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Galway, Ireland",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bordeaux, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Nantes, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Strasbourg, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Lille, France",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Montpellier, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Rennes, France",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Bonn, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Dusseldorf, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 8
+  },
+  {
+    "node_id": "Hanover, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Leipzig, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Nuremberg, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Dortmund, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Essen, Germany",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Bremen, Germany",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Salzburg, Austria",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Linz, Austria",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Antwerp, Belgium",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Ghent, Belgium",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Leuven, Belgium",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Utrecht, Netherlands",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Leiden, Netherlands",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Groningen, Netherlands",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Luxembourg City",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 9
+  },
+  {
+    "node_id": "Bern, Switzerland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Lausanne, Switzerland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Malmo, Sweden",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Lund, Sweden",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Aarhus, Denmark",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Bergen, Norway",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Trondheim, Norway",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tampere, Finland",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Oulu, Finland",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Riga, Latvia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Vilnius, Lithuania",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Minsk, Belarus",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Kyiv, Ukraine",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Lviv, Ukraine",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Kharkiv, Ukraine",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Moscow, Russia",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 3,
+    "capacity": 9
+  },
+  {
+    "node_id": "St. Petersburg, Russia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Novosibirsk, Russia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 5
+  },
+  {
+    "node_id": "Thessaloniki, Greece",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Istanbul, Turkey",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 9
+  },
+  {
+    "node_id": "Ankara, Turkey",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Izmir, Turkey",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Incheon, South Korea",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Daegu, South Korea",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Gwangju, South Korea",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Yokohama, Japan",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Kobe, Japan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Hiroshima, Japan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Sendai, Japan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Kaohsiung, Taiwan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Taichung, Taiwan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Hsinchu, Taiwan",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Hefei, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Wuhan, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Chengdu, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 8
+  },
+  {
+    "node_id": "Xi'an, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Suzhou, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Tianjin, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Chongqing, China",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Qingdao, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Dalian, China",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Ningbo, China",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Kolkata, India",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Ahmedabad, India",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 2,
+    "capacity": 7
+  },
+  {
+    "node_id": "Kanpur, India",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 3,
+    "capacity": 5
+  },
+  {
+    "node_id": "Kharagpur, India",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 4
+  },
+  {
+    "node_id": "Roorkee, India",
+    "utility_qubits": 1,
+    "bonus_bell_pairs": 2,
+    "capacity": 4
+  },
+  {
+    "node_id": "Lahore, Pakistan",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Karachi, Pakistan",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Islamabad, Pakistan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Dhaka, Bangladesh",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Colombo, Sri Lanka",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Kathmandu, Nepal",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Yangon, Myanmar",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Phnom Penh, Cambodia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Da Nang, Vietnam",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Penang, Malaysia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Johor Bahru, Malaysia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Surabaya, Indonesia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Bandung, Indonesia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cebu City, Philippines",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Quezon City, Philippines",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Adelaide, Australia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Canberra, Australia",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Gold Coast, Australia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Christchurch, New Zealand",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Haifa, Israel",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Jerusalem, Israel",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 3,
+    "capacity": 6
+  },
+  {
+    "node_id": "Jeddah, Saudi Arabia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Kuwait City, Kuwait",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Manama, Bahrain",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 7
+  },
+  {
+    "node_id": "Muscat, Oman",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Amman, Jordan",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Beirut, Lebanon",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Casablanca, Morocco",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Rabat, Morocco",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Tunis, Tunisia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Algiers, Algeria",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Lagos, Nigeria",
+    "utility_qubits": 5,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Nairobi, Kenya",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Addis Ababa, Ethiopia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Dar es Salaam, Tanzania",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Durban, South Africa",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Pretoria, South Africa",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Accra, Ghana",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Dakar, Senegal",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Mauritius",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Curitiba, Brazil",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Belo Horizonte, Brazil",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Brasilia, Brazil",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 7
+  },
+  {
+    "node_id": "Porto Alegre, Brazil",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Campinas, Brazil",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 2,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cordoba, Argentina",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Mendoza, Argentina",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Rosario, Argentina",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Montevideo, Uruguay",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Valparaiso, Chile",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Concepcion, Chile",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Medellin, Colombia",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cali, Colombia",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Quito, Ecuador",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Guayaquil, Ecuador",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Caracas, Venezuela",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 5
+  },
+  {
+    "node_id": "Panama City, Panama",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 8
+  },
+  {
+    "node_id": "San Jose, Costa Rica",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Guatemala City, Guatemala",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Havana, Cuba",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 4
+  },
+  {
+    "node_id": "Santo Domingo, Dominican Republic",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "San Juan, Puerto Rico",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Kingston, Jamaica",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 5
+  },
+  {
+    "node_id": "Nassau, Bahamas",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Tijuana, Mexico",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Cancun, Mexico",
+    "utility_qubits": 2,
+    "bonus_bell_pairs": 0,
+    "capacity": 6
+  },
+  {
+    "node_id": "Puebla, Mexico",
+    "utility_qubits": 4,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  },
+  {
+    "node_id": "Queretaro, Mexico",
+    "utility_qubits": 3,
+    "bonus_bell_pairs": 1,
+    "capacity": 6
+  }
+]
